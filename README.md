@@ -1,24 +1,6 @@
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-# shity_casino_ymaps
-a shity ymap map for the casino because people think it's okay to charge money for it, so I've put in 5% more effort than he did
+
+# jim_g_casino_ymaps
+a ymap map for the casino because people think it's okay to charge money for it, so I've put in 5% more effort than he did
 
 ![Desktop 2023 10 19 - 16 50 14 01 - frame at 0m3s](https://github.com/jimgordon20/shity_casino_ymaps/assets/110393030/c18ebf16-c3e3-4b01-9bc3-5d3f9aa864d0)
 ![Desktop 2023 10 19 - 16 50 14 01 - frame at 0m12s](https://github.com/jimgordon20/shity_casino_ymaps/assets/110393030/59edbb2c-7258-47c4-9fed-b2f1308b0ffa)
